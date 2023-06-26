@@ -1,2 +1,2 @@
 teste
-entendendo o HEAD
+entendendo o uso do HEAD
